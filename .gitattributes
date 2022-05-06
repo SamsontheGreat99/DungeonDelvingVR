@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Library/Artifacts/24/247d97aa05134d64a86829d92d4be0c3 filter=lfs diff=lfs merge=lfs -text
+Library/Artifacts/ed/edb6395ed2515b59d35b16a4ad26dd45 filter=lfs diff=lfs merge=lfs -text
+*.file filter=lfs diff=lfs merge=lfs -text

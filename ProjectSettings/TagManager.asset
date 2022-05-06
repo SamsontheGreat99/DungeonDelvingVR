@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - XRRIG
+  - PlayerSheet
+  - PlayerSword
+  - FighterSelection
+  - PaladinSelection
+  - RangerSelection
+  - BarbarianSelection
+  - Sword
+  - BoardEnvironment1
+  - PlayableEnvironment
+  - PlayerCharacter
+  - GMCharacter
+  - PlayableAreaTP
+  - TavernTP
+  - AudioSource
+  - GMTP
+  - AvatarGM
+  - AvatarPlayer
+  - Realtime
+  - CastleEnvironment
+  - TavernPortal
+  - SpawnPoint
+  - Goblin
+  - Pickup
+  - Enemy
+  - Avatar
+  - PlayerInitiativeObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - sphere
+  - xrrig
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

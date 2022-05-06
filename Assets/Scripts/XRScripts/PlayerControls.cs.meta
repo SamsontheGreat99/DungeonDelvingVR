@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 06559b56bdb8515478145bf484a26920
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerSheet: {instanceID: 0}
+  - leftHandAnchor: {instanceID: 0}
+  - rightHandAnchor: {instanceID: 0}
+  - centerEyeAnchor: {instanceID: 0}
+  - xrRig: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - inventoryUI: {instanceID: 0}
+  - characterSheetPrefab: {fileID: 9121520596047273894, guid: bb5f354966703d44c854c8b6e9d03be5, type: 3}
+  - inventoryPrefab: {fileID: 5838022990325644464, guid: c953681b0bcb99a48a75bbac379b4f56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
